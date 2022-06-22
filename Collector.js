@@ -30,3 +30,5 @@ class Collector {
         this.x = x;
     }
 }
+// black Collector withCredentials = truetype
+
